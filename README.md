@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [rohanbatra.in/oss](rohanbatra.in/oss)
 
-- 💬 Ask me about **Anything about tech, only catch is that is should be fun.**
+- 💬 Ask me about **Anything related tech, only catch is that is should be fun.**
 
 - 📫 How to reach me **github@rohanbatra.in**
 
