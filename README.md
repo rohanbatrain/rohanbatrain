@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Anything related tech, only catch is that is should be fun.**
 
-- 📫 How to reach me **github@rohanbatra.in**
+- 📫 How to reach me **redacted, will be soon updated**
 
 - ⚡ Fun fact **"Jack of all trades, master of few."**
 
