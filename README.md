@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at my [website.](rohanbatra.in/)
 
-- 💬 Ask me about **Anything related tech, only catch is that is should be fun.**
+- 💬 Ask me about **Anything related to tech, only catch is that is should be fun.**
 
 - 📫 How to reach me **redacted, will be soon updated**
 
