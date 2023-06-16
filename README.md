@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanbatrain&label=Profile%20views&color=0e75b6&style=flat" alt="rohanbatrain" /> </p>
 
-- 🔭 I’m currently working on [Second-Brain-Tools](https://github.com/rohanbatrain/Second-Brain-Tools)
-
+- 🔭 I’m currently working on [Knowledge-Base](https://github.com/rohanbatrain/Knowledge-Base)
+- 
 - 🌱 I’m currently learning **Python**
 
-- 🤝 I’m looking for help with [Second-Brain-Tools](https://github.com/rohanbatrain/Second-Brain-Tools)
-
-- 👨‍💻 All of my projects are available at [rohanbatra.in/oss](rohanbatra.in/oss)
+- 👨‍💻 All of my projects are available at my [website.](rohanbatra.in/)
 
 - 💬 Ask me about **Anything related tech, only catch is that is should be fun.**
 
