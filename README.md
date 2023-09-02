@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanbatrain&label=Profile%20views&color=0e75b6&style=flat" alt="rohanbatrain" /> </p>
 
-- 🔭 I’m currently working on [Knowledge-Base](https://github.com/rohanbatrain/Knowledge-Base)
+- 🔭 I’m currently working on [Knowledge-Base](https://github.com/rohanbatrain/knowledge-base)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C**
 
 - 👨‍💻 All of my projects are available at my [website.](rohanbatra.in/)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **redacted, will be soon updated**
 
-- ⚡ Fun fact **"Jack of all trades, master of few."**
+- ⚡ Fun fact **"Enjoying what i do and that's all what matters "**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
