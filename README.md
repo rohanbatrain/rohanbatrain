@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **redacted, will be soon updated**
 
-- ⚡ Fun fact **"Enjoying what i do and that's all what matters "**
+- ⚡ Fun fact **"Enjoying what i do and tha is all what matters to me."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
