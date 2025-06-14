@@ -3,17 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanbatrain&label=Profile%20views&color=0e75b6&style=flat" alt="rohanbatrain" /> </p>
 
-- 🔭 I’m currently working on [Knowledge-Base](https://github.com/rohanbatrain/knowledge-base)
-
-- 🌱 I’m currently learning **C**
+- 🔭 I’m currently working on [Second Brain Database](https://github.com/rohanbatrain/second_brain_database)
 
 - 👨‍💻 All of my projects are available at my [website.](rohanbatra.in/)
 
-- 💬 Ask me about **Anything related to tech, only catch is that is should be fun.**
+- 💬 Ask me about **Anything only catch is that is should be fun.**
 
-- 📫 How to reach me **redacted, will be soon updated**
+- 📫 How to reach me **contact@rohanbatra.in**
 
-- ⚡ Fun fact **"Enjoying what i do and tha is all what matters to me."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
