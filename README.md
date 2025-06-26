@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Second Brain Database](https://github.com/rohanbatrain/second_brain_database)
 
-- 👨‍💻 All of my projects are available at my [website.](rohanbatra.in/)
+- 👨‍💻 All of my projects are available at my [website.](https://rohanbatra.in/)
 
 - 💬 Ask me about **Anything only catch is that is should be fun.**
 
